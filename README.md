@@ -3,6 +3,7 @@
 A fun and interactive **Rock, Paper, Scissors** game built with pure **HTML**, **CSS**, and **JavaScript** — playable right in your browser with no dependencies or setup required.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20on%20Vercel-black?style=for-the-badge&logo=vercel)](https://rock-paper-scissors-gamma-lovat.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-des--AI--2006-181717?style=for-the-badge&logo=github)](https://github.com/des-AI-2006)
 
 ---
 
@@ -48,25 +49,29 @@ RPS game/
 
 ## 🚀 How to Run
 
-1. Clone or download this repository
-2. Open a terminal in the project folder
-3. Run a local server:
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/des-AI-2006/rock-paper-scissors-game.git
+   cd rock-paper-scissors-game
+   ```
+2. Open the project folder in your code editor or terminal.
+3. Run a local development server (optional):
    ```bash
    npx http-server -p 8080 -c-1
    ```
-4. Open your browser and visit **[http://localhost:8080](http://localhost:8080)**
+4. Open your browser and navigate to **[http://localhost:8080](http://localhost:8080)**.
 
-> You can also simply open `index.html` directly in any modern browser — no server required for basic play.
+> 💡 **Quick Run:** You can also simply open `index.html` directly in any modern web browser — no build steps or local server required!
 
 ---
 
 ## 🎮 How to Play
 
-1. Click on **Rock**, **Paper**, or **Scissor** to make your move
-2. The computer instantly picks its move at random
-3. The result banner tells you who won the round
+1. Click on **Rock**, **Paper**, or **Scissor** to make your move.
+2. The computer instantly picks its move at random.
+3. The result banner highlights who won the round with instant animation feedback.
 4. Scores update automatically — first to rack up the most points wins!
-5. Click **Restart Game** at any time to reset back to 0 – 0
+5. Click **Restart Game** at any time to reset scores back to `0 – 0`.
 
 ---
 
@@ -75,6 +80,16 @@ RPS game/
 🚀 The project is live and deployed on **Vercel**:
 
 **[https://rock-paper-scissors-gamma-lovat.vercel.app/](https://rock-paper-scissors-gamma-lovat.vercel.app/)**
+
+---
+
+## 👤 Author
+
+Crafted with ❤️ by **[@des-AI-2006](https://github.com/des-AI-2006)**.
+
+- **GitHub Profile**: [@des-AI-2006](https://github.com/des-AI-2006)
+- **Repository**: [rock-paper-scissors-game](https://github.com/des-AI-2006/rock-paper-scissors-game)
+- ⭐ Star the repository if you enjoyed playing or learned something from the project!
 
 ---
 
